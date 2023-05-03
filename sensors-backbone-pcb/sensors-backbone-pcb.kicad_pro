@@ -247,7 +247,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "sensor-project.kicad_pro",
+    "filename": "sensors-backbone-pcb.kicad_pro",
     "version": 1
   },
   "net_settings": {

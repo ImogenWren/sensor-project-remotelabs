@@ -9,7 +9,8 @@ The backbone PCB will provide all power requirements to the sensors One experime
 _All power requirements for the **sensors-one-pcb** must be provided by **sensors-backbone-pcb**_
 
 - Bi-polar supply for Op-Amps and similar (100mA per 5v rail (+-)? is this enough)
-- Power for Fan (60mA @ 12v) - needs to be 5v
+- Power for Fan (?mA @ 5v) PWM Capable
+	https://www.unmannedtechshop.co.uk/product/40mm-cooling-fan-5v-pwm-adjustable/
 - Power for Bulb. (~60mA @ ~5v)
 	https://www.switchelectronics.co.uk/6v-60ma-miniature-e10-mes-lamp-bulb
 - #TODO: Any MCU required on experiment board?

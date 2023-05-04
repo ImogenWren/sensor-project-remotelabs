@@ -785,9 +785,9 @@
     (stroke (width 0) (type default))
     (uuid 004c4a67-f2a9-4dff-9a00-ad6a4f3c26c4)
   )
-  (wire (pts (xy 55.245 165.1) (xy 66.04 165.1))
+  (wire (pts (xy 42.545 152.4) (xy 66.04 152.4))
     (stroke (width 0) (type default))
-    (uuid 02753077-8e3e-4ba4-82c0-d6ee3085fa31)
+    (uuid 0244c27a-fb12-4aea-9ef3-a3d1c7ad11b9)
   )
   (wire (pts (xy 173.99 31.115) (xy 212.09 31.115))
     (stroke (width 0) (type default))
@@ -869,10 +869,6 @@
     (stroke (width 0) (type default))
     (uuid 3f692be5-f557-45cc-9cd3-6ed0faf54ec5)
   )
-  (wire (pts (xy 114.935 175.26) (xy 109.855 175.26))
-    (stroke (width 0) (type default))
-    (uuid 44009373-ee23-41e0-9fa0-a2ae884e9bae)
-  )
   (wire (pts (xy 81.28 185.42) (xy 81.28 186.69))
     (stroke (width 0) (type default))
     (uuid 49e6c9f2-3d86-4dac-8d45-432e3b463f5f)
@@ -892,10 +888,6 @@
   (wire (pts (xy 238.76 113.665) (xy 246.38 113.665))
     (stroke (width 0) (type default))
     (uuid 4f15a477-4d91-4993-8a5f-64612d18a49e)
-  )
-  (wire (pts (xy 42.545 152.4) (xy 52.705 152.4))
-    (stroke (width 0) (type default))
-    (uuid 52972e31-7997-4e51-806e-fb1c6af689b6)
   )
   (wire (pts (xy 173.99 43.815) (xy 212.09 43.815))
     (stroke (width 0) (type default))
@@ -920,10 +912,6 @@
   (wire (pts (xy 260.35 157.48) (xy 260.35 153.67))
     (stroke (width 0) (type default))
     (uuid 58e97552-8200-4e20-ac2e-d1ec9b3c62fd)
-  )
-  (wire (pts (xy 55.245 154.94) (xy 66.04 154.94))
-    (stroke (width 0) (type default))
-    (uuid 5aefe629-942b-4438-b7e0-53090d9586cb)
   )
   (wire (pts (xy 207.645 57.785) (xy 207.645 61.595))
     (stroke (width 0) (type default))
@@ -953,7 +941,7 @@
     (stroke (width 0) (type default))
     (uuid 6f260f7e-5f78-447e-b80d-34e18e6fe4dd)
   )
-  (wire (pts (xy 97.155 172.72) (xy 91.44 172.72))
+  (wire (pts (xy 91.44 172.72) (xy 114.935 172.72))
     (stroke (width 0) (type default))
     (uuid 70d46b74-073e-4194-b819-081b0e47fc0e)
   )
@@ -1000,14 +988,6 @@
   (wire (pts (xy 219.71 51.435) (xy 219.71 54.61))
     (stroke (width 0) (type default))
     (uuid 8591f25a-fee5-486f-acdd-99314b7416a6)
-  )
-  (wire (pts (xy 42.545 149.86) (xy 57.785 149.86))
-    (stroke (width 0) (type default))
-    (uuid 89293a2b-98ab-45f5-8493-660a8d78041e)
-  )
-  (wire (pts (xy 60.325 162.56) (xy 66.04 162.56))
-    (stroke (width 0) (type default))
-    (uuid 8ad94d46-273b-476a-917c-91fa64053b86)
   )
   (wire (pts (xy 173.99 41.275) (xy 212.09 41.275))
     (stroke (width 0) (type default))
@@ -1069,19 +1049,15 @@
     (stroke (width 0) (type default))
     (uuid aad15445-39c2-4a43-991b-e675d4fd2423)
   )
-  (wire (pts (xy 65.405 149.86) (xy 66.04 149.86))
+  (wire (pts (xy 42.545 149.86) (xy 66.04 149.86))
     (stroke (width 0) (type default))
     (uuid ad4b9943-cbe1-474b-8a8b-1d50de37357b)
-  )
-  (wire (pts (xy 65.405 160.02) (xy 66.04 160.02))
-    (stroke (width 0) (type default))
-    (uuid ae9f5baa-d0f1-4615-8fe8-ae7c9135131d)
   )
   (wire (pts (xy 229.87 33.655) (xy 237.49 33.655))
     (stroke (width 0) (type default))
     (uuid b0490495-2459-472b-af02-36b7fdc994b4)
   )
-  (wire (pts (xy 42.545 165.1) (xy 47.625 165.1))
+  (wire (pts (xy 42.545 165.1) (xy 66.04 165.1))
     (stroke (width 0) (type default))
     (uuid b69c5a2c-b5ca-4a9d-ae39-b3393591322a)
   )
@@ -1101,7 +1077,7 @@
     (stroke (width 0) (type default))
     (uuid bc9798ea-a0b9-4dc7-9903-8f78382524f7)
   )
-  (wire (pts (xy 114.935 170.18) (xy 99.695 170.18))
+  (wire (pts (xy 91.44 170.18) (xy 114.935 170.18))
     (stroke (width 0) (type default))
     (uuid c2eca6dd-f1bf-466a-bb66-8c018762a3ed)
   )
@@ -1125,7 +1101,7 @@
     (stroke (width 0) (type default))
     (uuid cbbaf56a-683e-47ff-8280-756f0a3f2fdc)
   )
-  (wire (pts (xy 42.545 162.56) (xy 52.705 162.56))
+  (wire (pts (xy 42.545 162.56) (xy 66.04 162.56))
     (stroke (width 0) (type default))
     (uuid ccfb9d09-39e4-4f92-91ce-096dceee0b09)
   )
@@ -1136,10 +1112,6 @@
   (wire (pts (xy 207.645 90.805) (xy 217.17 90.805))
     (stroke (width 0) (type default))
     (uuid cf35dae5-b603-4383-8708-881750adf87c)
-  )
-  (wire (pts (xy 91.44 170.18) (xy 92.075 170.18))
-    (stroke (width 0) (type default))
-    (uuid cfcf6e70-1299-49f5-b6e8-2bcaee2bc731)
   )
   (wire (pts (xy 78.74 185.42) (xy 78.74 186.69))
     (stroke (width 0) (type default))
@@ -1181,10 +1153,6 @@
     (stroke (width 0) (type default))
     (uuid e409658b-dbab-4c5e-8439-d51d153987af)
   )
-  (wire (pts (xy 114.935 172.72) (xy 104.775 172.72))
-    (stroke (width 0) (type default))
-    (uuid e763b8a4-7bca-4e37-8802-e4b00d9c9305)
-  )
   (wire (pts (xy 175.26 111.125) (xy 220.98 111.125))
     (stroke (width 0) (type default))
     (uuid ea127f6d-a143-4bc5-ac67-5eb173eed1de)
@@ -1201,10 +1169,6 @@
     (stroke (width 0) (type default))
     (uuid f3813ac0-d912-4b04-9224-e57246b2261b)
   )
-  (wire (pts (xy 60.325 152.4) (xy 66.04 152.4))
-    (stroke (width 0) (type default))
-    (uuid f4570c56-c7b7-4103-8ae8-501909a0cca3)
-  )
   (wire (pts (xy 215.265 76.835) (xy 222.885 76.835))
     (stroke (width 0) (type default))
     (uuid f45aee78-bdce-4368-aae8-c68055835fec)
@@ -1213,7 +1177,7 @@
     (stroke (width 0) (type default))
     (uuid f571d83e-eb68-4b05-a1a7-becb8e926a21)
   )
-  (wire (pts (xy 102.235 175.26) (xy 91.44 175.26))
+  (wire (pts (xy 91.44 175.26) (xy 114.935 175.26))
     (stroke (width 0) (type default))
     (uuid f611ab88-d7cb-49ff-8f49-4c132eac4171)
   )
@@ -1221,7 +1185,7 @@
     (stroke (width 0) (type default))
     (uuid f792c26b-d937-4281-b73f-b460c3046a24)
   )
-  (wire (pts (xy 42.545 154.94) (xy 47.625 154.94))
+  (wire (pts (xy 42.545 154.94) (xy 66.04 154.94))
     (stroke (width 0) (type default))
     (uuid f8536f5a-c168-4fae-98c6-c496b339b17e)
   )
@@ -1241,7 +1205,7 @@
     (stroke (width 0) (type default))
     (uuid fcc22ac0-552f-4f53-acc5-b6301f04fa38)
   )
-  (wire (pts (xy 42.545 160.02) (xy 57.785 160.02))
+  (wire (pts (xy 42.545 160.02) (xy 66.04 160.02))
     (stroke (width 0) (type default))
     (uuid fe61b711-7fb3-4702-991f-71ca06b5a762)
   )
@@ -1376,7 +1340,7 @@
     )
     (pin "1" (uuid 522a9786-3a08-4f65-802d-db356a3e46f4))
     (instances
-      (project "sensor-project"
+      (project "sensors-backbone-pcb"
         (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
           (reference "#PWR07") (unit 1)
         )
@@ -1408,41 +1372,9 @@
     (pin "7" (uuid 78915ea8-b2c2-4d5e-951f-0d50a9fe69eb))
     (pin "8" (uuid 745a7148-7727-4fb5-821c-77c303b37e72))
     (instances
-      (project "sensor-project"
+      (project "sensors-backbone-pcb"
         (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
           (reference "J3") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "000_Resistors_Immo:100r") (at 56.515 162.56 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 05b00556-473a-4bfe-955c-999cadbae52b)
-    (property "Reference" "R8" (at 56.515 157.48 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "100r" (at 56.515 160.02 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 56.515 164.338 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 56.515 162.56 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "JLCpart" "C217766" (at 57.785 165.1 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Cost" "0.0093" (at 56.515 165.1 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid d73f7cde-f2bb-43df-96f8-a21247699977))
-    (pin "2" (uuid 5c960623-923b-47d8-9e8b-ae0051c6bde7))
-    (instances
-      (project "sensor-project"
-        (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
-          (reference "R8") (unit 1)
         )
       )
     )
@@ -1465,7 +1397,7 @@
     )
     (pin "1" (uuid e89cf3bf-edc8-4bbb-ad5e-cd47b93c7ff6))
     (instances
-      (project "sensor-project"
+      (project "sensors-backbone-pcb"
         (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
           (reference "#PWR03") (unit 1)
         )
@@ -1490,7 +1422,7 @@
     )
     (pin "1" (uuid 767d3894-3e7d-4c4b-9249-a221e793a144))
     (instances
-      (project "sensor-project"
+      (project "sensors-backbone-pcb"
         (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
           (reference "#PWR08") (unit 1)
         )
@@ -1544,41 +1476,9 @@
     (pin "8" (uuid 9af273dd-0209-4f88-8455-9934290f3c33))
     (pin "9" (uuid 5df32a7b-88d6-45f3-ac31-9def6cfc6326))
     (instances
-      (project "sensor-project"
+      (project "sensors-backbone-pcb"
         (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
           (reference "A2") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "000_Resistors_Immo:100r") (at 100.965 172.72 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 1298abc0-28e9-4eab-84bd-8780d9178645)
-    (property "Reference" "R11" (at 100.965 167.64 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "100r" (at 100.965 170.18 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 100.965 174.498 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 100.965 172.72 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "JLCpart" "C217766" (at 99.695 175.26 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Cost" "0.0093" (at 100.965 175.26 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 08f4f3a2-7d5c-4282-9ef1-beb699837997))
-    (pin "2" (uuid c881816a-6acf-462c-94ab-2cf1853678a5))
-    (instances
-      (project "sensor-project"
-        (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
-          (reference "R11") (unit 1)
         )
       )
     )
@@ -1625,7 +1525,7 @@
     (pin "8" (uuid 47cfd1b5-1bcb-4b08-8463-ce6c7f57f698))
     (pin "9" (uuid c756803e-b25a-40fd-a2cc-272ea483eed6))
     (instances
-      (project "sensor-project"
+      (project "sensors-backbone-pcb"
         (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
           (reference "U4") (unit 1)
         )
@@ -1665,7 +1565,7 @@
     (pin "8" (uuid 48920fb8-2b00-4607-9cc2-aca6a71e468b))
     (pin "9" (uuid 31c2ccc7-37ff-4e5c-89a1-aea513554636))
     (instances
-      (project "sensor-project"
+      (project "sensors-backbone-pcb"
         (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
           (reference "U5") (unit 1)
         )
@@ -1714,7 +1614,7 @@
     (pin "8" (uuid 3d52b537-e948-4c61-9802-6ab66df89ab0))
     (pin "9" (uuid dc2869ec-d875-4906-8085-878feca69752))
     (instances
-      (project "sensor-project"
+      (project "sensors-backbone-pcb"
         (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
           (reference "U2") (unit 1)
         )
@@ -1739,7 +1639,7 @@
     )
     (pin "1" (uuid 8e36fbfb-3aca-4ce7-8242-168bc149fb06))
     (instances
-      (project "sensor-project"
+      (project "sensors-backbone-pcb"
         (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
           (reference "#PWR04") (unit 1)
         )
@@ -1771,41 +1671,9 @@
     (pin "1" (uuid 37de8532-9f06-441d-a878-c298b67d8b48))
     (pin "2" (uuid ad4fc889-858c-4251-97c5-45bb8d6fc537))
     (instances
-      (project "sensor-project"
+      (project "sensors-backbone-pcb"
         (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
           (reference "R4") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "000_Resistors_Immo:100r") (at 95.885 170.18 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 5aed97f8-34a8-46e7-8f7e-3573e4ff5ba6)
-    (property "Reference" "R12" (at 95.885 165.1 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "100r" (at 95.885 167.64 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 95.885 171.958 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 95.885 170.18 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "JLCpart" "C217766" (at 94.615 172.72 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Cost" "0.0093" (at 95.885 172.72 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 23e9ebe5-e311-4c9d-b99c-2d72df687526))
-    (pin "2" (uuid 58c8417a-6ad7-476e-961b-0fe230a1d292))
-    (instances
-      (project "sensor-project"
-        (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
-          (reference "R12") (unit 1)
         )
       )
     )
@@ -1828,41 +1696,9 @@
     )
     (pin "1" (uuid fe32a384-3ea1-4c51-afda-94eab27dde88))
     (instances
-      (project "sensor-project"
+      (project "sensors-backbone-pcb"
         (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
           (reference "#PWR01") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "000_Resistors_Immo:100r") (at 56.515 152.4 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 65338fa5-ce46-4f88-9013-9f0c073c4194)
-    (property "Reference" "R2" (at 56.515 147.32 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "100r" (at 56.515 149.86 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 56.515 154.178 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 56.515 152.4 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "JLCpart" "C217766" (at 57.785 154.94 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Cost" "0.0093" (at 56.515 154.94 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 565ac277-ee7e-4758-8468-42ccf48bbfb4))
-    (pin "2" (uuid 1903db79-d0bf-46cf-826d-c67546c78e6f))
-    (instances
-      (project "sensor-project"
-        (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
-          (reference "R2") (unit 1)
         )
       )
     )
@@ -1892,7 +1728,7 @@
     (pin "7" (uuid 74cab78f-fe70-424e-b876-16ae1c144e9f))
     (pin "8" (uuid 88b33150-cf0c-4f40-be8f-39c055124140))
     (instances
-      (project "sensor-project"
+      (project "sensors-backbone-pcb"
         (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
           (reference "J2") (unit 1)
         )
@@ -1924,7 +1760,7 @@
     (pin "7" (uuid 00ba432d-5c72-4b1c-8e3a-85e79c7083f8))
     (pin "8" (uuid f5fbe352-b983-4bf7-9774-76a55c31e6c7))
     (instances
-      (project "sensor-project"
+      (project "sensors-backbone-pcb"
         (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
           (reference "J1") (unit 1)
         )
@@ -1949,41 +1785,9 @@
     )
     (pin "1" (uuid b470a6e9-e2b4-44ee-9ec0-ae51e9e45500))
     (instances
-      (project "sensor-project"
+      (project "sensors-backbone-pcb"
         (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
           (reference "#PWR02") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "000_Resistors_Immo:100r") (at 61.595 149.86 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 78b666b3-dce0-415f-9c0a-d68316d65a3d)
-    (property "Reference" "R1" (at 61.595 144.78 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "100r" (at 61.595 147.32 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 61.595 151.638 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 61.595 149.86 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "JLCpart" "C217766" (at 62.865 152.4 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Cost" "0.0093" (at 61.595 152.4 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid c14ccc64-6cdb-4730-a8ae-6fd0b2f8d4e7))
-    (pin "2" (uuid ff330eed-970d-4db4-b2a4-817b49aa4151))
-    (instances
-      (project "sensor-project"
-        (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
-          (reference "R1") (unit 1)
         )
       )
     )
@@ -2030,41 +1834,9 @@
     (pin "8" (uuid 8298f1d7-6d37-473d-98d5-2a4347ca951b))
     (pin "9" (uuid ac56990d-a17f-42fb-bc81-a8d9bd488b7e))
     (instances
-      (project "sensor-project"
+      (project "sensors-backbone-pcb"
         (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
           (reference "U3") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "000_Resistors_Immo:100r") (at 106.045 175.26 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 8bb991ab-55de-4df1-ad61-85f3114bdbd8)
-    (property "Reference" "R10" (at 106.045 170.18 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "100r" (at 106.045 172.72 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 106.045 177.038 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 106.045 175.26 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "JLCpart" "C217766" (at 104.775 177.8 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Cost" "0.0093" (at 106.045 177.8 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 8c4bbd72-d3fc-4fc0-8ba2-80a47dcbec30))
-    (pin "2" (uuid 7cc81ef6-ddd6-4161-b11e-eebbf644db2e))
-    (instances
-      (project "sensor-project"
-        (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
-          (reference "R10") (unit 1)
         )
       )
     )
@@ -2087,7 +1859,7 @@
     )
     (pin "1" (uuid 45129c36-64b9-429a-9423-fd201135d956))
     (instances
-      (project "sensor-project"
+      (project "sensors-backbone-pcb"
         (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
           (reference "#PWR012") (unit 1)
         )
@@ -2119,7 +1891,7 @@
     (pin "1" (uuid c7c3520d-e1e2-4627-b6c5-a3fb9b2dffd5))
     (pin "2" (uuid 3b6960db-6db5-4f9a-8989-5e942f1bdceb))
     (instances
-      (project "sensor-project"
+      (project "sensors-backbone-pcb"
         (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
           (reference "R6") (unit 1)
         )
@@ -2151,7 +1923,7 @@
     (pin "1" (uuid c6e22c87-35bc-4c6c-8cdb-232d969c41b4))
     (pin "2" (uuid 9a7d9502-91a2-44ad-a84d-4ff2849764c6))
     (instances
-      (project "sensor-project"
+      (project "sensors-backbone-pcb"
         (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
           (reference "R5") (unit 1)
         )
@@ -2176,73 +1948,9 @@
     )
     (pin "1" (uuid 007f586f-dfff-4b37-af85-4ec22c78c280))
     (instances
-      (project "sensor-project"
+      (project "sensors-backbone-pcb"
         (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
           (reference "#PWR013") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "000_Resistors_Immo:100r") (at 51.435 154.94 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 9ca29017-3368-4bbb-813e-e5470d3e811b)
-    (property "Reference" "R3" (at 51.435 149.86 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "100r" (at 51.435 152.4 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 51.435 156.718 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 51.435 154.94 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "JLCpart" "C217766" (at 52.705 157.48 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Cost" "0.0093" (at 51.435 157.48 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 7cab0f18-f69d-4c14-ab70-3a6d29532de1))
-    (pin "2" (uuid 8ce1304c-be1e-4f39-8acd-34e027fd57aa))
-    (instances
-      (project "sensor-project"
-        (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
-          (reference "R3") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "000_Resistors_Immo:100r") (at 51.435 165.1 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid a25aa31e-2cde-4863-8afa-0b9f4e748981)
-    (property "Reference" "R7" (at 51.435 160.02 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "100r" (at 51.435 162.56 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 51.435 166.878 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 51.435 165.1 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "JLCpart" "C217766" (at 52.705 167.64 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Cost" "0.0093" (at 51.435 167.64 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 7bdcab2d-bc97-497b-9f28-f8e3c032a6f1))
-    (pin "2" (uuid b84e3e59-e43c-4424-9f5e-493387f1e652))
-    (instances
-      (project "sensor-project"
-        (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
-          (reference "R7") (unit 1)
         )
       )
     )
@@ -2270,7 +1978,7 @@
     (pin "5" (uuid 59c3e8f9-a82b-438c-923d-6ee28beb3eb7))
     (pin "6" (uuid dec291f9-5be8-46fe-bdb1-3f407fb44eb6))
     (instances
-      (project "sensor-project"
+      (project "sensors-backbone-pcb"
         (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
           (reference "U1") (unit 1)
         )
@@ -2295,7 +2003,7 @@
     )
     (pin "1" (uuid eb4a0edf-bee6-44dc-9b1a-f1f45b6d4a87))
     (instances
-      (project "sensor-project"
+      (project "sensors-backbone-pcb"
         (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
           (reference "#PWR06") (unit 1)
         )
@@ -2320,7 +2028,7 @@
     )
     (pin "1" (uuid a37780ac-68f7-4fa6-9e60-1faa96e01366))
     (instances
-      (project "sensor-project"
+      (project "sensors-backbone-pcb"
         (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
           (reference "#PWR09") (unit 1)
         )
@@ -2345,41 +2053,9 @@
     )
     (pin "1" (uuid 5a184c42-f514-4e73-85ab-b2538c2cbb53))
     (instances
-      (project "sensor-project"
+      (project "sensors-backbone-pcb"
         (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
           (reference "#PWR05") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "000_Resistors_Immo:100r") (at 61.595 160.02 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid dbbdc4ea-b128-43da-91f0-b176bd282e38)
-    (property "Reference" "R9" (at 61.595 154.94 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "100r" (at 61.595 157.48 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 61.595 161.798 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 61.595 160.02 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "JLCpart" "C217766" (at 62.865 162.56 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Cost" "0.0093" (at 61.595 162.56 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid be004452-30a1-4118-ba81-5e95ba69226a))
-    (pin "2" (uuid 3f23b648-1e89-474c-9827-ca258181dd6d))
-    (instances
-      (project "sensor-project"
-        (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
-          (reference "R9") (unit 1)
         )
       )
     )
@@ -2404,7 +2080,7 @@
     (pin "2" (uuid 0c0d1ce4-a615-4fc5-9fc2-224c71e09144))
     (pin "3" (uuid cc09916f-4698-40e2-b19e-32879abee776))
     (instances
-      (project "sensor-project"
+      (project "sensors-backbone-pcb"
         (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721"
           (reference "JP1") (unit 1)
         )
@@ -2423,7 +2099,7 @@
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
-      (project "sensor-project"
+      (project "sensors-backbone-pcb"
         (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721" (page "2"))
       )
     )
@@ -2440,7 +2116,7 @@
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
-      (project "sensor-project"
+      (project "sensors-backbone-pcb"
         (path "/626b35b1-867d-4ca7-a50d-226e2d5d6721" (page "3"))
       )
     )
